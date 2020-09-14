@@ -1,0 +1,12 @@
+.standard{
+  font-size: 20px;
+  text-align: center;
+  background-color: lightgrey;
+}
+span{
+  padding: 0 10px;
+  display: inline-block;
+}
+.notIn{
+  float:left;
+}
